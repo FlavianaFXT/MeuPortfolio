@@ -1,0 +1,233 @@
+body {
+    margin: 0;
+}
+
+.banner {
+    background-image: url(../IMG/banner-flaviana.png);
+    height: 140vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+@media (max-width: 728px){
+    .banner{
+        height: 90vh;
+    }
+}
+
+@media (max-width:500px){
+    .banner{
+        height: 50vh;
+    }
+}
+
+@media (max-width:400px){
+    .banner{
+        height:35vh;
+    }
+}
+
+.banner p, h1 {
+    color: white;
+    margin: 0;
+}
+
+@media (max-width:500px){
+    .banner p{
+        font-size:10px;
+    }
+}
+
+@media (max-width:350px){
+    .banner p{
+        font-size:8px;
+    }
+}
+
+h1{
+    font-size: 50px;
+    -webkit-text-stroke-color: #171515;
+    -webkit-text-stroke-width: 1.5px;
+}
+
+@media (max-width: 728px){
+    h1{
+        font-size: 30px;
+    }
+}
+
+@media (max-width:500px){
+    h1{
+        font-size: 25px;
+    }
+}
+
+@media (max-width:350px){
+    h1{
+        font-size: 18px;
+    }
+}
+
+.banner button {
+    background-color: white;
+    color: #7E4598;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+@media (max-width:500px){
+    .banner button{
+        font-size: 10px;
+    }
+}
+
+@media (max-width:350px){
+    .banner button{
+        font-size: 8px;
+        padding: 6px;
+    }
+}
+
+.sobre {
+    margin-left: 150px;
+    margin-top: 60px;
+}
+
+@media (max-width:728px){
+    .sobre{
+        margin-left: 75px;
+    }
+}
+
+@media (max-width:400px){
+    .sobre{
+        margin-left:10px;
+    }
+}
+
+.descricao, .habilidades{
+    display: inline-block;
+    width: 40%;
+    margin-top: 0;
+}
+
+@media (max-width:500px){
+    .descricao, .habilidades{
+    display:flex;
+    flex-direction: column;
+    };
+}
+
+.descricao, .habilidades p{
+    line-height: 1.2;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+@media (max-width:400px){
+    .descricao, .habilidades p{
+        max-width: 70%;
+        margin: 10px;
+        padding: 2px;
+    }
+}
+
+blockquote q{
+    font-style: italic;
+    font-weight: bold;
+}
+
+.habilidades{
+    margin-left: 100px;
+}
+
+@media (max-width:500px){
+    .habilidades{
+        margin-left:30px;
+        margin-right: 20px;
+        width: 70%;
+    }
+}
+
+@media (max-width:400px){
+    .habilidades{
+        margin-left:10px;
+    }
+}
+
+li{
+    line-height: 1;
+}
+
+@media (max-width:500px){
+    li{
+        padding: 0;
+        margin-left: 15px;
+    }
+}
+
+@media (max-width:300px){
+    li{
+        padding: 0;
+        margin-left:0;
+    }
+}
+
+footer{
+    text-align: center;
+    margin-top: 60px;
+}
+
+@media (max-width:350px){
+    footer{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+footer p{
+    font-size: 15px;
+    margin-bottom: 0;
+}
+
+@media (max-width:500px){
+    footer p{
+        font-size: 10px;
+    }
+}
+
+footer img{
+    margin: 5px;
+    padding: 5px;
+}
+
+@media (max-width:400px){
+    footer img{
+    margin:0;
+    padding: 1px;
+    max-width: 60px;
+    max-height: 50px;
+    }
+}
+
+#linkedin {
+    background-color:  #0e76a8;
+}
+
+#github{
+    background-color: #171515;
+}
+
+#facebook{
+    background-color: #3b5998;
+}
+
+#twitter{
+    background-color: #00acee;
+}
+
