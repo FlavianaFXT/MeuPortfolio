@@ -46,8 +46,6 @@ Esse projeto foi proposto como desafio a ser avaliado no processo de seleção p
 
 O projeto é constituído de 1 página, que contém o cabeçalho e o campo abaixo com duas Colunas: Uma com uma breve introdução sobre mim e a outra apresentando mihas habilidades e curiosidades. No cabeçalho pode-se ter acesso as minhas redes sociais.
 
-![image](https://github.com/FlavianaFXT/reprograma-Ghibli-films/assets/113718720/c42572d6-6c21-4048-b087-a3fbc5defb7b)
-
 
 ### Estrutura de Pastas
 
