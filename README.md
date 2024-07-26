@@ -1,7 +1,7 @@
 # MeuPortfolio
 Projeto desenvolvido como desafio da Oficina de Seleção para o curso Reprograma, em que trazemos um pouco sobre nós e nossas redes e contatos.
 
-[PROJETO AQUI](#https://ws4-flaviana-ferraz.netlify.app/)
+- [PROJETO AQUI](https://ws4-flaviana-ferraz.netlify.app/)
 
 
 INDICE
