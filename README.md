@@ -57,6 +57,7 @@ O projeto é constituído de 1 página, que contém o cabeçalho e o campo abaix
 | Ferramenta | Descrição |
 | --- | --- |
 | `VS Code` | editor de código |
+| `Live Server`| extensão do VS Code para abrir projeto HTML no navegador |
 | `HTML` | linguagem de marcação utilizada na construção da página |
 | `CSS` | mecanismo para adicionar estilos a uma página |
 | `Git` | Gerenciador de vercionamento |
@@ -105,11 +106,11 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 
 3️⃣ Entre no diretório do repositorio clonado, no arquivo index.html
 
-4️⃣ Por fim rode o projeto:
+4️⃣ Por fim, clique com o direito do mouse no arquivo e selecione:
 ```bash
-                           -------
+                         Abrir com o Live Server
 ```
 
-O navegador será aberto automaticamente usando a porta -----
+O navegador será aberto com o projeto.
 
   
