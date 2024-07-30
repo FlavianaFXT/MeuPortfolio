@@ -49,7 +49,9 @@ O projeto é constituído de 1 página, que contém o cabeçalho e o campo abaix
 
 ### Estrutura de Pastas
 
-------------------INSERIR-------------------
+
+![image](https://github.com/user-attachments/assets/e9c64186-783c-4578-935c-177eafdbe556)
+
 
 
 # TECNOLOGIAS UTILIZADAS
